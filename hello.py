@@ -1,1 +1,1 @@
-print('Hello CUHK!')
+print('Hello Hamburg\!')
